@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [CLI Games](https://github.com/jbakchr/cli-games)
 
-- 🌱 I’m currently learning **Advanced JavaScript, more Node.js, Docker ..**
+- 🌱 I’m currently learning **advanced JavaScript, more Node.js, Docker, Redis, GraphQL ..**
 
-- 👯 I’m looking to collaborate on **Whatevs ..**
+- 👯 I’m looking to collaborate on **whatevs ..**
 
 
 <h3 align="left">Languages and Tools:</h3>
