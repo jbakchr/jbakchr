@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbakchr&label=Profile%20views&color=0e75b6&style=flat" alt="jbakchr" /> </p>
 
-- 🔭 I’m currently working on [CLI Games](https://github.com/jbakchr/cli-games)
+- 🔭 I’m currently working on [Mandril GraphQL API](https://github.com/jbakchr/mandril-graphql-api)
 
 - 🌱 I’m currently learning **advanced JavaScript, more Node.js, Docker, Redis, GraphQL ..**
 
