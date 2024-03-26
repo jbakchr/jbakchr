@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbakchr&label=Profile%20views&color=0e75b6&style=flat" alt="jbakchr" /> </p>
 
-- 🔭 I’m currently working on [Python Battle Ship Game](https://github.com/jbakchr/python-battle-ship-game)
+- 🔭 I’m mainly working on [Managing the GitHub organization of Coding Pirates Hillerød](https://github.com/coding-pirates-hillerod)
 
 - 🌱 I’m currently learning **advanced JavaScript, more Node.js, Docker, Redis, GraphQL ..**
 
