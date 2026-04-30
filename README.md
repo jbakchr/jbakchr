@@ -14,13 +14,14 @@ I work primarily with **JavaScript and Python**, and I especially like:
 **Languages**
 - JavaScript / Node.js
 - Python
+- Go
 
 **Technologies & tools**
 - APIs & automation
 - CLI tools
-- Docker (learning & experimenting)
+- Docker
 - GitHub Actions
-- Redis & GraphQL (currently exploring)
+- Redis & GraphQL
 
 ---
 
