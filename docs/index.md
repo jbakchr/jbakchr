@@ -5,15 +5,15 @@ title: Home
 
 # Jonas Bak Phillipson
 
-Software developer focused on **Python**, **backend APIs**, and **AI-powered tools**.
+Software developer building small, practical tools with **Python**, **backend APIs**, and **AI**.
 
-I build with a _**hardcore focus**_ on:
+Focused on _reducing friction_ and helping people _take action_.
+
+I build with a _**hardcore dedication**_ on:
 
 - building practical tools
 - fast iteration
 - real-world usability
-
-_Currently exploring AI-powered workflows and developer tooling._
 
 ---
 
@@ -30,12 +30,12 @@ _Currently exploring AI-powered workflows and developer tooling._
 
 ### microsteps-ai
 
-CLI tool that helps you start tasks by generating minimal first steps.  
+CLI tool that helps you start tasks by generating minimal “Step 1” actions.  
 _[View project →](microsteps-ai.md)_
 
 ### skim-job-ai
 
-Tool for scanning job ads and extracting key signals quickly.  
+Tool that scans job ads and extracts key signals in seconds.  
 _[View project →](skim-job-ai.md)_
 
 ---
