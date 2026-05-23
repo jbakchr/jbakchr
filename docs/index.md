@@ -7,26 +7,22 @@ title: Home
 
 Software developer focused on **Python**, **backend APIs**, and **AI-powered tools**.
 
-I build _**practical tools**_ that _**reduce friction**_ in real workflows.
-
-## About me
-
-_Commited focus_ on:
+I build with a _**hardcore focus**_ on:
 
 - building practical tools
 - fast iteration
 - real-world usability
 
-Currently exploring AI-powered workflows and developer tooling.
+_Currently exploring AI-powered workflows and developer tooling._
 
 ---
 
-### How I build
+### _How I build_
 
-- Start with a minimal working version
-- Test on real use cases immediately
-- Iterate based on friction
-- Prioritize usability over complexity
+1. Start with a minimal working version
+2. Test on real use cases immediately
+3. Iterate based on friction
+4. Prioritize usability over complexity
 
 ---
 
