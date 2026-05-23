@@ -1,6 +1,6 @@
 # FEEDBACK
 
-## 
+##
 
 ## projects
 
@@ -92,3 +92,12 @@ That’s gold.
 ### 3. Keep it brutally simple
 
 If it's too verbose → people leave
+
+## about microsteps-ai (in "featured projects" section)
+
+⚡ Tiny extra tweak (optional but strong)
+
+You could even format it like:
+
+"CLI tool that gets you unstuck:  
+3 tiny actions → trigger → action"

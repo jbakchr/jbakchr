@@ -30,7 +30,8 @@ I build with a _**hardcore dedication**_ to:
 
 ### microsteps-ai
 
-CLI tool that helps you start tasks by generating minimal “Step 1” actions.  
+CLI tool that **gets you _unstuck_**:  
+3 tiny actions → trigger → action!  
 _[View project →](microsteps-ai.md)_
 
 ### skim-job-ai
