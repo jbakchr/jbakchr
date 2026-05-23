@@ -28,13 +28,13 @@ I build with a _**hardcore dedication**_ to:
 
 ## Featured projects
 
-### microsteps-ai
+### _microsteps-ai_
 
 CLI tool that **gets you _unstuck_**:  
 _3 tiny actions → trigger → action!_  
 _[View project →](microsteps-ai.md)_
 
-### skim-job-ai
+### _skim-job-ai_
 
 Tool that **cuts fluff and BS in job ads**:  
 _key signals → **instant** job interest clarity!_  
