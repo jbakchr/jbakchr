@@ -7,9 +7,9 @@ title: Home
 
 Software developer building small, practical tools with **Python**, **backend APIs**, and **AI**.
 
-Focused on _reducing friction_ and helping people _take action_.
+_**Focus:** reduce friction → take action!_
 
-I build with a _**hardcore dedication**_ on:
+I build with a _**hardcore dedication**_ to:
 
 - building practical tools
 - fast iteration
