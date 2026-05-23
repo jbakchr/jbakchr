@@ -37,7 +37,7 @@ _[View project →](microsteps-ai.md)_
 ### skim-job-ai
 
 Tool that **cuts fluff and BS in job ads**:  
-_key signals → **instant** job interest clarity!_   
+_key signals → **instant** job interest clarity!_  
 _[View project →](skim-job-ai.md)_
 
 ---
