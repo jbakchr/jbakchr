@@ -30,12 +30,12 @@ _Currently exploring AI-powered workflows and developer tooling._
 
 ### microsteps-ai
 
-→ CLI tool that helps you start tasks by generating minimal first steps  
-→ Focus: behavior + action initiation  
-→ Tech: Python, Ollama  
-→ [View project →](projects/microsteps-ai.md)
+CLI tool that helps you start tasks by generating minimal first steps.  
+_[View project →](microsteps-ai.md)_
 
 ### skim-job-ai
 
 Tool for scanning job ads and extracting key signals quickly.  
-[View project →](projects/skim-job-ai.md)
+_[View project →](skim-job-ai.md)_
+
+---
