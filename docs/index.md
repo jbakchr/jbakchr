@@ -31,12 +31,13 @@ I build with a _**hardcore dedication**_ to:
 ### microsteps-ai
 
 CLI tool that **gets you _unstuck_**:  
-3 tiny actions → trigger → action!  
+_3 tiny actions → trigger → action!_  
 _[View project →](microsteps-ai.md)_
 
 ### skim-job-ai
 
-Tool that scans job ads and extracts key signals in seconds.  
+Tool that **cuts fluff and BS in job ads**:  
+_key signals → **instant** job interest clarity!_   
 _[View project →](skim-job-ai.md)_
 
 ---
